@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <AssemblyName>AngleDotNet</AssemblyName>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.0</Version>
+        <Authors>d1ggity</Authors>
+        <Description>A minimal library for Angles.</Description>
+        <PackageTags>angle, conversion, trigonometry</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/Revenant35/AngleDotNet.git</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
